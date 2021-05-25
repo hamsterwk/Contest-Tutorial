@@ -34,7 +34,7 @@ Polygon是Codeforces背后的一个强大的题库系统，我们总是能在各
 
 Polygon是独立于CF的一个平台，需要独立账号登录
 
-[[https://polygon.codeforces.com](https://polygon.codeforces.com/)]([https://polygon.codeforces.com](https://polygon.codeforces.com/))
+[https://polygon.codeforces.com](https://polygon.codeforces.com/)
 
 ↑Polygon的链接
 
@@ -290,13 +290,9 @@ Polygon对单个上传的数据文件的大小有限制。当你发现需要上�
 
 ### Step 7: 题目打包
 
-**每一次对题目的修改后都要打包**
+这是创建题目的最后一步，一般来说，等你完成所有修改之后，就可以对题目进行打包。
 
-**每一次对题目的修改后都要打包**
-
-**每一次对题目的修改后都要打包**
-
-这是创建题目的最后一步。
+如果你需要移植题目到其它位置，你就需要进行打包，以下载题目。
 
 点击packeges。
 
